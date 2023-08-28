@@ -17,3 +17,9 @@ El personaje principal de Abyss of Darkness es un enigmático encapuchado armado
 
 El público objetivo de Abyss of Darkness son los jugadores apasionados que esperan ansiosamente la secuela de *Hollow Knight*, un aclamado juego de plataformas y acción. Abyss of Darkness se inspira en la estética y atmósfera oscura de *Hollow Knight*, al tiempo que ofrece una experiencia de combate cuerpo a cuerpo única y desafiante. Los fans de *Hollow Knight* encontrarán en Abyss of Darkness un nuevo y emocionante desafío que les permitirá sumergirse en un mundo lleno de peligros, descubrir secretos y demostrar su habilidad en el arte del juego.
 
+## Tecnologías Utilizadas
+
+- **Unity**: El Motor grafico utilizado integro para este proyecto.
+- **C#**: Un Lenguaje muy potente para crear videojuegos que utiliza todos los motores.
+- **Visual Code**: El framework que use para el codigo de C#
+
